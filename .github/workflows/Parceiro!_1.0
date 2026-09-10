@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name ="License" content="All rights reserved, until I change my mind..." />
 <title>Drello</title>
 <style>
 :root,[data-theme="light"]{--bg-primary:#0e74af;--bg-header:#0B5B8A;--bg-nav:#0a5a88;--bg-content:#0e74af;--bg-list:#e2e4e6;--bg-card:#ffffff;--bg-aside:#f4f5f7;--bg-footer:#0B5B8A;--bg-popup:#ffffff;--bg-hover:rgba(255,255,255,.15);--bg-input:#ffffff;--text-primary:#444;--text-header:#fff;--text-nav:rgba(255,255,255,.9);--text-card:#333;--text-muted:#888;--text-footer:rgba(255,255,255,.85);--border-color:#ddd;--border-light:#eee;--accent:#0B5B8A;--accent-hover:#094870;--btn-green:#61bd4f;--btn-green-hover:#5aac46;--btn-danger:#eb5a46;--shadow:rgba(0,0,0,.15);--overlay-bg:rgba(0,0,0,.5);--board-bg:#0E74AF;--board-hover:#0B5B8A}
